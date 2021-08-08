@@ -1,9 +1,12 @@
-//to run demo
-//compile
-//deploy the compute Address
-//run get bytecode(owner address of computeAddress, and any number)
-//get bytecode and copy it
-//call getAddress, (bytecode, pass in salt(any number))
-//the result should be the address of the contract that will be deployed
-//run deploy to compare (copy bytecode from getbytecode, enter the same salt from previously)
-//check logs from emitted event
+# To demo
+
+to run demo
+
+1. compile
+2. deploy the compute Address
+3. run get bytecode(owner address of computeAddress, and any number)
+5. get bytecode and copy it
+6. call getAddress, (bytecode, pass in salt(any number))
+7. the result should be the address of the contract that will be deployed
+8. run deploy to compare (copy bytecode from getbytecode, enter the same salt from previously)
+9. check logs from emitted event
